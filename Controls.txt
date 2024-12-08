@@ -1,0 +1,6 @@
+Controls
+
+WASD : Movement
+Space : Jump
+ESC : Pause menu
+
